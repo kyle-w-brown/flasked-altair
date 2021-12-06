@@ -11,7 +11,7 @@ Inspired by the [Flasked-Vincent](https://github.com/iiSeymour/flasked-vincent) 
 ## Running
 
 ```
-$ git clone https://github.com/lemoncyb/flasked-altair.git
+$ git clone https://github.com/kyle-w-brown/flasked-altair.git
 $ cd flasked-altair
 $ python ./app.py
 ```
